@@ -178,7 +178,7 @@ MIT License — free to use, modify and distribute.
 ## 👨‍💻 Author
 
 **Aditya Gupta**  
-GitHub: [@AdityaGupta-75](https://github.com/AdityaGupta6-2)
+GitHub: [@AdityaGupta6-2](https://github.com/AdityaGupta6-2)
 
 ---
 
